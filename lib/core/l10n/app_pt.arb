@@ -9,5 +9,20 @@
   "signInFailed": "Não foi possível entrar. Confira o código da equipe, o usuário e a senha.",
   "homeTitle": "Início",
   "homeEmptyTitle": "Sua temporada começa aqui",
-  "homeEmptyBody": "Crie uma tarefa ou registre um teste para preencher este painel."
+  "homeEmptyBody": "Crie uma tarefa ou registre um teste para preencher este painel.",
+  "team": "Equipe",
+  "addStudent": "Adicionar aluno",
+  "displayName": "Nome completo",
+  "tempPassword": "Senha temporária (mín. 8 caracteres)",
+  "create": "Criar conta",
+  "cancel": "Cancelar",
+  "studentCreated": "Conta criada. O aluno deve trocar a senha no primeiro acesso.",
+  "createStudentFailed": "Não foi possível criar a conta. O usuário pode já existir.",
+  "teamEmptyTitle": "Nenhum membro ainda",
+  "teamEmptyBody": "Adicione o primeiro aluno para começar.",
+  "roleCoach": "Coach",
+  "roleMentor": "Mentor",
+  "roleCaptain": "Capitão",
+  "roleMember": "Membro",
+  "roleGuest": "Convidado"
 }

@@ -157,6 +157,96 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Create a task or log a test to fill this dashboard.'**
   String get homeEmptyBody;
+
+  /// No description provided for @team.
+  ///
+  /// In en, this message translates to:
+  /// **'Team'**
+  String get team;
+
+  /// No description provided for @addStudent.
+  ///
+  /// In en, this message translates to:
+  /// **'Add student'**
+  String get addStudent;
+
+  /// No description provided for @displayName.
+  ///
+  /// In en, this message translates to:
+  /// **'Full name'**
+  String get displayName;
+
+  /// No description provided for @tempPassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Temporary password (min. 8 characters)'**
+  String get tempPassword;
+
+  /// No description provided for @create.
+  ///
+  /// In en, this message translates to:
+  /// **'Create account'**
+  String get create;
+
+  /// No description provided for @cancel.
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel'**
+  String get cancel;
+
+  /// No description provided for @studentCreated.
+  ///
+  /// In en, this message translates to:
+  /// **'Account created. The student must change the password on first sign-in.'**
+  String get studentCreated;
+
+  /// No description provided for @createStudentFailed.
+  ///
+  /// In en, this message translates to:
+  /// **'Could not create the account. The username may already be taken.'**
+  String get createStudentFailed;
+
+  /// No description provided for @teamEmptyTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'No members yet'**
+  String get teamEmptyTitle;
+
+  /// No description provided for @teamEmptyBody.
+  ///
+  /// In en, this message translates to:
+  /// **'Add your first student to get started.'**
+  String get teamEmptyBody;
+
+  /// No description provided for @roleCoach.
+  ///
+  /// In en, this message translates to:
+  /// **'Coach'**
+  String get roleCoach;
+
+  /// No description provided for @roleMentor.
+  ///
+  /// In en, this message translates to:
+  /// **'Mentor'**
+  String get roleMentor;
+
+  /// No description provided for @roleCaptain.
+  ///
+  /// In en, this message translates to:
+  /// **'Captain'**
+  String get roleCaptain;
+
+  /// No description provided for @roleMember.
+  ///
+  /// In en, this message translates to:
+  /// **'Member'**
+  String get roleMember;
+
+  /// No description provided for @roleGuest.
+  ///
+  /// In en, this message translates to:
+  /// **'Guest'**
+  String get roleGuest;
 }
 
 class _AppLocalizationsDelegate

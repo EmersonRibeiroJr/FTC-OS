@@ -9,5 +9,20 @@
   "signInFailed": "Could not sign in. Check your team code, username and password.",
   "homeTitle": "Home",
   "homeEmptyTitle": "Your season starts here",
-  "homeEmptyBody": "Create a task or log a test to fill this dashboard."
+  "homeEmptyBody": "Create a task or log a test to fill this dashboard.",
+  "team": "Team",
+  "addStudent": "Add student",
+  "displayName": "Full name",
+  "tempPassword": "Temporary password (min. 8 characters)",
+  "create": "Create account",
+  "cancel": "Cancel",
+  "studentCreated": "Account created. The student must change the password on first sign-in.",
+  "createStudentFailed": "Could not create the account. The username may already be taken.",
+  "teamEmptyTitle": "No members yet",
+  "teamEmptyBody": "Add your first student to get started.",
+  "roleCoach": "Coach",
+  "roleMentor": "Mentor",
+  "roleCaptain": "Captain",
+  "roleMember": "Member",
+  "roleGuest": "Guest"
 }

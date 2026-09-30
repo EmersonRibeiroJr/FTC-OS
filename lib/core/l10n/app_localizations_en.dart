@@ -39,4 +39,51 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String get homeEmptyBody =>
       'Create a task or log a test to fill this dashboard.';
+
+  @override
+  String get team => 'Team';
+
+  @override
+  String get addStudent => 'Add student';
+
+  @override
+  String get displayName => 'Full name';
+
+  @override
+  String get tempPassword => 'Temporary password (min. 8 characters)';
+
+  @override
+  String get create => 'Create account';
+
+  @override
+  String get cancel => 'Cancel';
+
+  @override
+  String get studentCreated =>
+      'Account created. The student must change the password on first sign-in.';
+
+  @override
+  String get createStudentFailed =>
+      'Could not create the account. The username may already be taken.';
+
+  @override
+  String get teamEmptyTitle => 'No members yet';
+
+  @override
+  String get teamEmptyBody => 'Add your first student to get started.';
+
+  @override
+  String get roleCoach => 'Coach';
+
+  @override
+  String get roleMentor => 'Mentor';
+
+  @override
+  String get roleCaptain => 'Captain';
+
+  @override
+  String get roleMember => 'Member';
+
+  @override
+  String get roleGuest => 'Guest';
 }
