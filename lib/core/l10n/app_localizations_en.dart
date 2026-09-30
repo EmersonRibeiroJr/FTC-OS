@@ -86,4 +86,33 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get roleGuest => 'Guest';
+
+  @override
+  String get changePasswordTitle => 'Choose a new password';
+
+  @override
+  String get changePasswordBody =>
+      'You signed in with a temporary password. Set your own to continue.';
+
+  @override
+  String get newPassword => 'New password (min. 8 characters)';
+
+  @override
+  String get confirmPassword => 'Confirm new password';
+
+  @override
+  String get savePassword => 'Save password';
+
+  @override
+  String get passwordTooShort => 'Use at least 8 characters.';
+
+  @override
+  String get passwordsDontMatch => 'The passwords do not match.';
+
+  @override
+  String get changePasswordFailed =>
+      'Could not change the password. Try again.';
+
+  @override
+  String get signOut => 'Sign out';
 }

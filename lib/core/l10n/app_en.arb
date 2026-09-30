@@ -24,5 +24,14 @@
   "roleMentor": "Mentor",
   "roleCaptain": "Captain",
   "roleMember": "Member",
-  "roleGuest": "Guest"
+  "roleGuest": "Guest",
+  "changePasswordTitle": "Choose a new password",
+  "changePasswordBody": "You signed in with a temporary password. Set your own to continue.",
+  "newPassword": "New password (min. 8 characters)",
+  "confirmPassword": "Confirm new password",
+  "savePassword": "Save password",
+  "passwordTooShort": "Use at least 8 characters.",
+  "passwordsDontMatch": "The passwords do not match.",
+  "changePasswordFailed": "Could not change the password. Try again.",
+  "signOut": "Sign out"
 }

@@ -24,5 +24,14 @@
   "roleMentor": "Mentor",
   "roleCaptain": "Capitão",
   "roleMember": "Membro",
-  "roleGuest": "Convidado"
+  "roleGuest": "Convidado",
+  "changePasswordTitle": "Escolha uma nova senha",
+  "changePasswordBody": "Você entrou com uma senha temporária. Defina a sua para continuar.",
+  "newPassword": "Nova senha (mín. 8 caracteres)",
+  "confirmPassword": "Confirme a nova senha",
+  "savePassword": "Salvar senha",
+  "passwordTooShort": "Use pelo menos 8 caracteres.",
+  "passwordsDontMatch": "As senhas não conferem.",
+  "changePasswordFailed": "Não foi possível trocar a senha. Tente novamente.",
+  "signOut": "Sair"
 }

@@ -1,2 +1,1 @@
-Copie estas pastas por cima do projeto (lib/ e supabase/), substituindo os arquivos.
-Depois: flutter gen-l10n  e  flutter analyze
+Extraia por cima do projeto e rode: flutter gen-l10n && flutter analyze

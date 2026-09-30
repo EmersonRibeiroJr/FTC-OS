@@ -86,4 +86,33 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get roleGuest => 'Convidado';
+
+  @override
+  String get changePasswordTitle => 'Escolha uma nova senha';
+
+  @override
+  String get changePasswordBody =>
+      'Você entrou com uma senha temporária. Defina a sua para continuar.';
+
+  @override
+  String get newPassword => 'Nova senha (mín. 8 caracteres)';
+
+  @override
+  String get confirmPassword => 'Confirme a nova senha';
+
+  @override
+  String get savePassword => 'Salvar senha';
+
+  @override
+  String get passwordTooShort => 'Use pelo menos 8 caracteres.';
+
+  @override
+  String get passwordsDontMatch => 'As senhas não conferem.';
+
+  @override
+  String get changePasswordFailed =>
+      'Não foi possível trocar a senha. Tente novamente.';
+
+  @override
+  String get signOut => 'Sair';
 }
