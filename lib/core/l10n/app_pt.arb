@@ -1,0 +1,13 @@
+{
+  "@@locale": "pt",
+  "appName": "FTC OS",
+  "tagline": "Tudo o que sua equipe FTC precisa.",
+  "teamCode": "Código da equipe",
+  "username": "Usuário",
+  "password": "Senha",
+  "signIn": "Entrar",
+  "signInFailed": "Não foi possível entrar. Confira o código da equipe, o usuário e a senha.",
+  "homeTitle": "Início",
+  "homeEmptyTitle": "Sua temporada começa aqui",
+  "homeEmptyBody": "Crie uma tarefa ou registre um teste para preencher este painel."
+}

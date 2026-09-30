@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appName": "FTC OS",
+  "tagline": "Everything your FTC Team needs.",
+  "teamCode": "Team code",
+  "username": "Username",
+  "password": "Password",
+  "signIn": "Sign in",
+  "signInFailed": "Could not sign in. Check your team code, username and password.",
+  "homeTitle": "Home",
+  "homeEmptyTitle": "Your season starts here",
+  "homeEmptyBody": "Create a task or log a test to fill this dashboard."
+}
